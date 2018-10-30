@@ -2,7 +2,7 @@ title: Long Haul
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: https://thanhtd1987.github.io
-baseurl: ""
+baseurl: /
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
